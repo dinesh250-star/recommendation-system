@@ -1,0 +1,20 @@
+.result-body{
+    margin-bottom: 2vh;
+}
+
+.result-image{
+    margin-top: 1vh;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    height: 50%;
+    width: 100%;
+}
+
+.accuracy{
+    margin-top: 2vh;
+    margin-left: 1vw;
+}
+
+.desc{
+    margin-left: 1vw;
+}
